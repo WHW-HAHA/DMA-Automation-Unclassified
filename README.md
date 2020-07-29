@@ -19,7 +19,7 @@ Dynamic mooring analysis(DMA) is one of the most important businesses in Royal H
 - Django
 
 # Typical steps of using this automated platform
-Preparations for doing a DMA project
+## Preparations for doing a DMA project**
 - Step 0. Read look up note and manual of using DMA automation platform
   ![Illustration](https://user-images.githubusercontent.com/43483189/88807581-30b87400-d1b2-11ea-8469-0709fe1b3e73.png) 
   *Look up note*
@@ -46,7 +46,7 @@ Preparations for doing a DMA project
   
   *A batch of runs for various of environmental conditions*
 
-Execute the runs of DMA simulation
+## Execute the runs of DMA simulation
 - Step 3. Upload the simulations to DMA portal to run the simulations and compress the output of all runs into a csv file
   
   ![Interface](https://user-images.githubusercontent.com/43483189/88804194-db7a6380-d1ad-11ea-9e7d-b59f72551afe.png)
@@ -57,7 +57,7 @@ Execute the runs of DMA simulation
   ![Interface](https://user-images.githubusercontent.com/43483189/88804429-2c8a5780-d1ae-11ea-9025-dea671b37a94.png)
   *Interface to download the output*
   
-Post process the output data
+## Post process the output data
 - Step 5. Data analysis 
 
 # Showcase of a series of typical data analysis 
