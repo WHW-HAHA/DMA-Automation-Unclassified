@@ -2,5 +2,16 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of DMA project/DMA%20Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of simulation/Batch_LocalSimulationOutput_to_CollatedTable" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of simulation/DMA%20Automation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Execute the runs of simulation/Xmf_Template_to_Batch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Post process the output data/Batch_InteractivePolarPlot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Post process the output data/Batch_TrendPlot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Post process the output data/Res_PlotTimeseries" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Post process the output data/Res_TimesignalStatistics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate" vcs="Git" />
   </component>
 </project>
