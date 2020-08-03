@@ -11,9 +11,24 @@
       <change afterPath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Post process the output data/Res_PlotTimeseries/Input/HOW_23.res" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/All_test_cases.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Check 2020-06-08.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Check 2020-06-10.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Fender_mesh.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Frozen_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Negative_surge_decay_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Negative_surge_decay_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Negative_sway_decay_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Negative_sway_decay_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/PAMRAK_DryBulkCarrier_Loa229_LS.hyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Positive_surge_decay_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Positive_surge_decay_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Positive_sway_decay_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Positive_sway_decay_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Run_all_test_cases.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Still_water_test_template.xmf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Outputs/Template.xmf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable" beforeDir="false" afterPath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/.idea/Scripts.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/.idea/misc.xml" beforeDir="false" />
@@ -25,6 +40,7 @@
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/extend_db.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/extract_inputs.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Batch_LocalSimulationOutput_to_CollatedTable/Scripts/xl2csv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch" beforeDir="false" afterPath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/.idea/Scripts.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/.idea/misc.xml" beforeDir="false" />
@@ -34,9 +50,6 @@
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/.ipynb_checkpoints/aNySIM_main_body-checkpoint.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/Data_collection.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Execute the runs of DMA project/Xmf_Template_to_Batch/Scripts/aNySIM_main_body.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Execute the runs of simulation/Batch_LocalSimulationOutput_to_CollatedTable" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Execute the runs of simulation/DMA%20Automation" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Execute the runs of simulation/Xmf_Template_to_Batch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Post process the output data/Batch_InteractivePolarPlot" beforeDir="false" afterPath="$PROJECT_DIR$/Post process the output data/Batch_InteractivePolarPlot" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Post process the output data/Batch_InteractivePolarPlot/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Post process the output data/Batch_InteractivePolarPlot/Scripts/Create_user_full_settings_lists.py" beforeDir="false" />
@@ -141,7 +154,6 @@
       <change beforePath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Scripts/Test/Test.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Scripts/Test/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Preparations for doing a DMA project/Xmf_MooringArrangement_to_XmfTemplate/Scripts/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
